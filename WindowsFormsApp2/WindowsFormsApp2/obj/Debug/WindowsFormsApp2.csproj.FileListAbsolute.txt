@@ -1,0 +1,16 @@
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Sifre.resources
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\Muhammed\Desktop\C#\Derslerim\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
